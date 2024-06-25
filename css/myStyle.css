@@ -1,0 +1,94 @@
+
+.nav-link {
+    color: rgba(21, 209, 115, 0.712);
+}
+
+
+
+
+.navbar-toggler {
+    color: rgba(21, 209, 115, 0.712);
+}
+
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(21, 209, 115, 0.712);
+}
+
+/* Foto de perfiñ */
+#foNdo {
+    background-image: url(/assets/img/imagenFond.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40em;
+    margin-top: 56px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* Fto de perfil */
+#fotoDperfil {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#fotoDperfil .rounded-container {
+    width: 400px;
+    height: 350px;
+}
+
+#miInfo h1{
+    color: rgb(1, 126, 63);
+  
+}
+
+#miInfo h2{
+    color: rgba(21, 209, 115, 0.712);
+
+    
+}
+
+/* Sobre mi */
+#sobreMi {
+    font-size: 1em;
+    background-color: rgba(21, 209, 115, 0.712);
+   margin: 0px;;
+   
+   padding: 80px;;
+
+}
+.row {
+    color: rgb(251, 255, 251);
+}
+#sobreMi-h3 {
+    font-size: 4em;
+}
+
+/* proyectos */
+
+#portafolioProyectos {
+    background-color: black;
+}
+
+#miSproyectos{
+    font-size: 4em;
+    color: white;
+}
+
+/* fondo contacto */
+
+#fondoContacto{
+    background-image: url(/assets/img/fondoContacto.png);
+}
+
+/* footer */
+
+footer{
+    background-color: black;
+    height: 2em;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
